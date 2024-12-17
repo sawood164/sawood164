@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **sawood164/sawood164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://github.com/sawood164/sawood164/edit/main/README.md"> RESUME<a>...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
