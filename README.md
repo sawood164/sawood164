@@ -48,8 +48,10 @@
 <summary>Trimrrrr</summary>
 
 - Trimrrrr generates a shorter version that redirects to the original URL.
+  
 - React JS, Tailwind CSS, Supabase, Shadcn-UI, Vercel
-- <a href="https://trimrrrr.vercel.app"> demo </a>
+  
+- <a href="https://trimrrrr.vercel.app"> Deployment-Link </a>
 
 
 </details>
@@ -58,7 +60,8 @@
 <summary>Flutter-News</summary>
 
 - Flutter, Dart, JSON API
-- [https://trimrrrr.vercel.app/]()
+  
+- <a href="https://github.com/sawood164/Flutter-News"> demo </a>
 
 </details>
 
