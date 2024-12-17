@@ -49,7 +49,7 @@
 
 - Description of the project
 - Tech stack used
-- []()
+- [https://trimrrrr.vercel.app/]()
 
 </details>
 
