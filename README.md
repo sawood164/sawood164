@@ -49,6 +49,7 @@
 
 - Description of the project
 - Tech stack used
+- <a href="[https://trimrrrr.vercel.app"> demo </a>
 - [https://trimrrrr.vercel.app/]()
 
 </details>
