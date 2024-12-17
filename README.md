@@ -19,7 +19,7 @@
 
 - 🎓 Computer Science Engineering student at VIT BHOPAL UNIVERSITY
 - 💻 Full Stack Developer passionate about creating impactful web solutions
-- 🌱 Currently exploring React.js, Docker, and AWS Cloud
+- 🌱 Currently exploring React.js, next js, Docker, and AWS Cloud
 - 🎯 Goal-oriented developer with a keen interest in cutting-edge technologies
 - 📚 Continuous learner and technology enthusiast
 
