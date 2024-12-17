@@ -1,4 +1,4 @@
-                                                                                   Design ∙ Develop ∙ Deploy
+                                      Design ∙ Develop ∙ Deploy
 
 
 👨🏻‍💻  About Me
