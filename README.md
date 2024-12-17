@@ -61,13 +61,13 @@
 
 - Flutter, Dart, JSON API
   
-- <a href="https://github.com/sawood164/Flutter-News"> demo </a>
+- <a href="https://github.com/sawood164/Flutter-News"> Repo-Link </a>
 
 </details>
 
 
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+
 
 ---
 
