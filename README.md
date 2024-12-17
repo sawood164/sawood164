@@ -1,39 +1,75 @@
-                                      Design ∙ Develop ∙ Deploy
-
-
-👨🏻‍💻  About Me
-
-🌟 Hello! I'm a 22-year-old tech enthusiast with a passion for exploring cutting-edge technologies.
-
-🏛️Currently, I'm pursuing a degree in Computer Science Engineering at VIT BHOPAL UNIVERSITY.
-
-🌐 Full Stack Developer
-
-🚀I'm on track for learning more about React.js, Docker, AWS Cloud.
-
-📫You can shoot me an email at  <a href="">sawoodalam19@gmail.com <a>... I'll try to respond as soon as I can.
-
-📝Please have a look at my <a href="https://drive.google.com/file/d/1xTW5I4FS1gkVPpOl2zl-3rEvqMpVvJ8N/view?usp=sharing
-">Resume <a> for more details about me. I'm open to feedback and suggestions!
-
-
-
-<h3 class="heading-element" dir="auto">Languages</h3>
-<img align="center" src="https://camo.githubusercontent.com/c1973c28b33e0bbb5917495a567bf8d172906931df97acbb704f980c40ed84ea/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6370702c707974686f6e2c6a6176617363726970742c68746d6c2c6373732c6d7973716c2c646172742c7377696674" data-canonical-src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,mysql,dart,swift" style="max-width: 100%;">
-<a href="https://skillicons.dev" align="center" rel="nofollow">
-  <h3 class="heading-element" dir="auto">Technologies</h3>
-  <img align="center" src="https://camo.githubusercontent.com/de478af646d7b16e9a4de8ad8f84a76ed121c92c9ec32b9e005351308fc2cc33/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f636b65722c6177732c676f6f676c65636c6f75642c6e6f64656a732c6769742c6769746875622c676974687562616374696f6e732c776f726470726573732c66697265626173652c6d6f6e676f64622c73757061626173652c76657263656c" data-canonical-src="https://skillicons.dev/icons?i=docker,aws,googlecloud,nodejs,git,github,githubactions,wordpress,firebase,mongodb,supabase,vercel" style="max-width: 100%;">
-  </a>
-
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🤝🏻 &nbsp;Connect with Me</h3><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 🤝🏻 &nbsp;Connect with Me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center">
-  
- [![Connect with me](https://img.shields.io/badge/LinkedIn-%232867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sawood-alam-614884257/)
-[![Contact me](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sawoodalam19@gmail.com)
-[![Connect with me on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sawood_alam_19/profilecard)
- 
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADF7&center=true&vCenter=true&random=false&width=435&lines=Md+Sawood+Alam;Full+Stack+Developer;Tech+Enthusiast)
+
+
+# Design ∙ Develop ∙ Deploy
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sawood-alam-614884257/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sawoodalam19@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sawood_alam_19/profilecard)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
 </div>
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+- 🎓 Computer Science Engineering student at VIT BHOPAL UNIVERSITY
+- 💻 Full Stack Developer passionate about creating impactful web solutions
+- 🌱 Currently exploring React.js, Docker, and AWS Cloud
+- 🎯 Goal-oriented developer with a keen interest in cutting-edge technologies
+- 📚 Continuous learner and technology enthusiast
+
+<details>
+<summary>📫 How to reach me</summary>
+
+- Email: [sawoodalam19@gmail.com](mailto:sawoodalam19@gmail.com)
+- LinkedIn: [Md Sawood Alam](https://www.linkedin.com/in/md-sawood-alam-614884257/)
+- Resume: [View My Resume](https://drive.google.com/file/d/1xTW5I4FS1gkVPpOl2zl-3rEvqMpVvJ8N/view?usp=sharing)
+
+</details>
+
+## 🛠 Tech Stack
+
+### Languages
+![Languages](https://skillicons.dev/icons?i=cpp,python,javascript,html,css,mysql,dart,swift)
+
+### Technologies & Tools
+![Technologies](https://skillicons.dev/icons?i=docker,aws,googlecloud,nodejs,git,github,githubactions,wordpress,firebase,mongodb,supabase,vercel)
 
 
 
+## 🌟 Featured Projects
+
+<details>
+<summary>Trimrrrr</summary>
+
+- Description of the project
+- Tech stack used
+- [Link to repository/demo]()
+
+</details>
+
+<details>
+<summary>Project 2 Name</summary>
+
+- Description of the project
+- Tech stack used
+- [Link to repository/demo]()
+
+</details>
+
+## 📈 Contributions
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+
+---
+
+<div align="center">
+
+### 💡 Open to Collaboration and New Opportunities!
+
+</div>
