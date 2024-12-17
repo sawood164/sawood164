@@ -47,10 +47,10 @@
 <details>
 <summary>Trimrrrr</summary>
 
-- Description of the project
-- Tech stack used
+- Trimrrrr generates a shorter version that redirects to the original URL.
+- HTML, TALWIND-CSS, REACTJS
 - <a href="https://trimrrrr.vercel.app"> demo </a>
-- [https://trimrrrr.vercel.app/]()
+
 
 </details>
 
