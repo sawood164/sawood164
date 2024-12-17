@@ -48,22 +48,21 @@
 <summary>Trimrrrr</summary>
 
 - Trimrrrr generates a shorter version that redirects to the original URL.
-- HTML, TALWIND-CSS, REACTJS
+- React JS, Tailwind CSS, Supabase, Shadcn-UI, Vercel
 - <a href="https://trimrrrr.vercel.app"> demo </a>
 
 
 </details>
 
 <details>
-<summary>Project 2 Name</summary>
+<summary>Flutter-News</summary>
 
-- Description of the project
-- Tech stack used
+- Flutter, Dart, JSON API
 - [https://trimrrrr.vercel.app/]()
 
 </details>
 
-## 📈 Contributions
+
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
 
