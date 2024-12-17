@@ -16,3 +16,8 @@
 Please have a look at my <a href="https://drive.google.com/file/d/1xTW5I4FS1gkVPpOl2zl-3rEvqMpVvJ8N/view?usp=sharing
 ">Resume <a> for more details about me. I'm open to feedback and suggestions!
 
+
+
+![image](https://github.com/user-attachments/assets/5f50b543-8a96-46f2-8bd1-1134f87e3f49)
+
+
