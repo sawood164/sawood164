@@ -49,7 +49,7 @@
 
 - Description of the project
 - Tech stack used
-- [Link to repository/demo]()
+- []()
 
 </details>
 
@@ -58,7 +58,7 @@
 
 - Description of the project
 - Tech stack used
-- [Link to repository/demo]()
+- [https://trimrrrr.vercel.app/]()
 
 </details>
 
